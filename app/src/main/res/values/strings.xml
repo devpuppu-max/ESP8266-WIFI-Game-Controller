@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESP Game Controller</string>
+    <string name="accessibility_description">
+        Controls game buttons using ESP8266 Wi-Fi commands
+    </string>
+</resources>
